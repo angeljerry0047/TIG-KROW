@@ -3,7 +3,6 @@ const moment = require("moment");
 const simpleGit = require("simple-git");
 const random = require("random");
 const FILE_PATH = "./data.json";
-
 const makeCommit = (n) => {
   if (n === 0) return simpleGit().push();
   const x = random.int(0, 54);
