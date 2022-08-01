@@ -1,4 +1,4 @@
-# Github Bot 
+# Github Bot
 
 ![alt text](https://img.shields.io/npm/v/moment.svg?style=flat "moment")
 
@@ -54,4 +54,3 @@ Difference of commits between timestamps. Less the value of days, more dense the
 
 ### Reference
 [YouTube](https://www.youtube.com/watch?v=2q--gA97caM)
-
